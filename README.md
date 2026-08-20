@@ -13,7 +13,7 @@ This lab simulates the basic infrastructure of a small office network:
 
 | Component | Details |
 |---|---|
-| Hypervisor | *(e.g. Hyper-V / VirtualBox / VMware)* |
+| Hypervisor | VirtualBox |
 | Domain Controller | Windows Server 2022, hostname `DC` |
 | Client | Windows 11, hostname `CLIENT01` |
 | Domain | `lab.local` |
